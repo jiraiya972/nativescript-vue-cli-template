@@ -1,4 +1,4 @@
-# vue-cli-template
+# nativescript-vue-cli-template
 
 > NativeScript-Vue application template for quick prototyping with vue-cli (2.x).
 
@@ -9,7 +9,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli/tree/m
 ``` bash
 # Scaffold project
 npm install -g vue-cli
-vue init jiraiya972/vue-cli-template <project-name>
+vue init jiraiya972/nativescript-vue-cli-template <project-name>
 cd <project-name>
 
 # Install dependencies
