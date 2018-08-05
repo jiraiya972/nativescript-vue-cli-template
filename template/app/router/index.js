@@ -41,4 +41,4 @@ const router = new VueRouter({
 
 router.replace('/home');
 
-module.exports = router;
+export default router;
