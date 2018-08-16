@@ -1,3 +1,5 @@
+# Deprecated use [vue-cli-template](https://github.com/nativescript-vue/vue-cli-template/tree/next).
+
 # nativescript-vue-cli-template
 
 > NativeScript-Vue application template for quick prototyping with vue-cli (2.x).
